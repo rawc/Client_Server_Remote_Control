@@ -1,0 +1,12 @@
+I have done:
+   ls
+   rm
+   get(buggy)
+
+you run daemon at a specific port
+and then clinet at localhost port
+
+get:
+ it writes the file out, but is currpted for some reason
+rm:
+ works, 

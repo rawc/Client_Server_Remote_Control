@@ -1,0 +1,2 @@
+/it appears that the server does not make seperate connections
+need to add fork()
